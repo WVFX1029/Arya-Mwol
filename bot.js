@@ -7,13 +7,15 @@ WhatsAsena - Yusuf Usta
 const fs = require("fs");
 const path = require("path");
 const events = require("./events");
+
 const raganork = require("./raganork");
+const sana = require('./sana');
 const { FakeDB, takeMessage } = require("./plugins/sql/fake");
 const chalk = require('chalk');
 const config = require('./config');
 const simpleGit = require('simple-git');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./julie/');
+const {Message, StringSession, Image, Video} = require('./Sana/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const git = simpleGit();
@@ -75,7 +77,6 @@ async function whatsAsena () {
     
     
     const conn = new WAConnection();
-    conn.version = [3, 3034, 9];
     const Session = new StringSession();
 
     conn.logger.level = config.DEBUG ? 'debug' : 'warn';
@@ -140,13 +141,13 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅️Kichu Ser working ' + config.WORKTYPE + ' 𝚗𝚘𝚠 '));
+            chalk.green.bold('✅️Sana Mwol working ' + config.WORKTYPE + ' 𝚗𝚘𝚠 '));
           // thanks to afnanplk
 	    if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
                 if (commits.total === 0) {
-                    await conn.sendMessage(conn.user.jid,Lang.UPDATE, MessageType.text);    
+                    await conn.sendMessage(conn.user.jid, fs.readFileSync("sana.png"), MessageType.image, { caption: `*💙ʜᴇʏ ʙʀᴏ sᴀɴᴀ ᴍᴡᴏʟ ɪs  ᴡᴏʀᴋɪɴɢ ` + config.WORKTYPE + ` ❤️* \n\n*💝ᴛʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴜsɪɴɢ  sᴀɴᴀ ᴍᴡᴏʟ ʙᴏᴛ💝* \n\n*💝ᴘʟᴇᴀsᴇ ɴɪɴɢᴀʟᴜᴅᴇ sᴀᴘᴘᴏʀᴛ ᴠᴇɴᴀᴍ 😥ɴɪɴɢᴀʟᴏᴋᴋᴇ ᴏʟʟᴜ ɴᴀᴍᴍᴀᴋ💝** \n\n*😍ᴀᴘᴘᴏ ᴇɴɢᴀɴᴇ ᴘᴏʟɪᴋᴋᴀʟᴇ😍*`});
                 } else {
                     var degisiklikler = Lang.NEW_UPDATE;
                     commits['all'].map(
@@ -230,27 +231,27 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 await axios.get(pp, {responseType: 'arraybuffer'}).then(async (res) => {
                     //created by afnanplk
                
-			await conn.sendMessage(msg.key.remoteJid, res.data, MessageType.image, {caption:  gb.message.replace('{pp}', '').replace('{time}', afn_plk_).replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{gpdesc}', pinkjson.desc).replace('{owner}', conn.user.name).replace('{mention}', tag), contextInfo: {mentionedJid: [msg.messageStubParameters[0]]} }); });                       
+			await conn.sendMessage(msg.key.remoteJid, res.data, MessageType.image, {caption:  gb.message.replace('{pp}', '').replace('{time}', afn_plk_).replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{gpdesc}', pinkjson.desc).replace('{owner}', conn.user.name).replace('{no fake}', conn.user.name).replace('{mention}', tag), contextInfo: {mentionedJid: [msg.messageStubParameters[0]]} }); });                       
             
 		} else if (gb.message.includes('{gif}')) {
                 var plkpinky = await axios.get(config.WEL_GIF, { responseType: 'arraybuffer' })
 		
 		const tag = '@' + msg.messageStubParameters[0].split('@')[0]
 		
-               await conn.sendMessage(msg.key.remoteJid, Buffer.from(plkpinky.data), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message.replace('{gif}', '').replace('{time}', afn_plk_).replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{gpdesc}', pinkjson.desc).replace('{owner}', conn.user.name).replace('{mention}', tag), contextInfo: {mentionedJid: [msg.messageStubParameters[0]]} });
+               await conn.sendMessage(msg.key.remoteJid, Buffer.from(plkpinky.data), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message.replace('{gif}', '').replace('{time}', afn_plk_).replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{gpdesc}', pinkjson.desc).replace('{owner}', conn.user.name).replace('{no fake}', conn.user.name).replace('{mention}', tag), contextInfo: {mentionedJid: [msg.messageStubParameters[0]]} });
             
 		} else {
                    var pinkjson = await conn.groupMetadata(msg.key.remoteJid)
 		   
 		   const tag = '@' + msg.messageStubParameters[0].split('@')[0]
 		   
-                   await conn.sendMessage(msg.key.remoteJid,gb.message.replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{gpdesc}', pinkjson.desc).replace('{time}', afn_plk_).replace('{owner}', conn.user.name).replace('{mention}', tag),MessageType.text,{ contextInfo: {mentionedJid: [msg.messageStubParameters[0]]}});
+                   await conn.sendMessage(msg.key.remoteJid,gb.message.replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{gpdesc}', pinkjson.desc).replace('{time}', afn_plk_).replace('{owner}', conn.user.name).replace('{no fake}', conn.user.name).replace('{mention}', tag),MessageType.text,{ contextInfo: {mentionedJid: [msg.messageStubParameters[0]]}});
             }
           }         
             return;                                      
     }
-
-    if (config.BLOCKCHAT !== false) {     
+	    
+      if (config.BLOCKCHAT !== false) {     
         var abc = config.BLOCKCHAT.split(',');                            
         if(msg.key.remoteJid.includes('-') ? abc.includes(msg.key.remoteJid.split('@')[0]) : abc.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
@@ -339,8 +340,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG == 'off') {
                                 
-                                await conn.sendMessage(conn.user.jid, '*~_________~ KICHU SER ~______~*' +
-                                    '\n\n*😑 ' + error + '*\n\n```Report errors\njoin ⚠️Warning bot not allowed in the group\nchat.whatsapp.com/IGF65nLxwPeITjnZlUbnr4``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ 𝐒𝐀𝐍𝐀 𝐌𝐖𝐎𝐋࿐ ~______~*' +
+                                    '\n\n*👾 ' + error + '*\n\n```Report errors\njoin ⚠️Warning bot not allowed in the group\nhttps://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk``` ' 
                                     , MessageType.text);
                             }
                         }

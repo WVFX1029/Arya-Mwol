@@ -1,135 +1,52 @@
 <div align="center">
+<div align="center">
   <p align="center">
-<img src=https://i.imgur.com/U5vuiAB.png>
+<img src=https://i.imgur.com/W6iMjZ5.png>
 </p>
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=7500D1&lines=WELCOME+TO+KICHU-SER+WA+BOT+REPO;CREATED+BY+KICHU+SER;THIS+IS+A+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATURES)](https://git.io/typing-svg)
-
  </a>
 </p>
 
+
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐀𝐍𝐀+𝐌𝐖𝐎𝐋+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐀𝐁𝐔+𝘼𝙉𝘿+𝐒𝐀𝐍𝐀;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+
+ </a>
+</p>
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/2V88P25.jpeg sizealt="JPEG" width="200" height="200"/>
+<img src="https://i.imgur.com/SR8Y0SK.jpeg" alt="GIF" width="310" height="290"/>
 </p>
 
   <p align="center">
-<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--Itsmesoman/KICHU-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="#"><img title="Sana" src="https://img.shields.io/badge/Abu-Sana-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Itsme-soman">KICHU-SER</a> to make it public
+𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐂𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐒𝐀𝐍𝐀 𝐀𝐍𝐃 𝐀𝐁𝐔
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-**READ MUST!!!**
-
-**[INFORMATION!]
-If You Want Any Help Contact Me (Don't Spam Messages!) (I have more work to do, so don't say bad words to me, I'll block you directly if you say bad words to me!)
-In Malayalam ⇒ നിങ്ങൾക്ക് എന്തെങ്കിലും സഹായം വേണമെങ്കിൽ  ഇവിടെ ക്ലിക്ക് ചെയ്യുക (സന്ദേശങ്ങൾ സ്പാം ചെയ്യരുത്!) (എനിക്ക് കൂടുതൽ ജോലികളുണ്ട്, തിരക്കിലാണ് അതിനാൽ എന്നോട് മോശമായ വാക്കുകൾ പറയരുത്, നിങ്ങൾ എന്നോട് മോശമായ വാക്കുകൾ പറഞ്ഞാൽ ഞാൻ നിങ്ങളെ ബ്ലോക്ക് ചെയ്യും!)]**
-
-**Click here to contact me for any doubts 👇🏼**
-
-**[![KICHU-SER](https://i.imgur.com/0aD122X.png)](http://wa.me/17624757852?text=*_Alo%20Kichu%20Vro%20I%20Need%20Ur%20Help%20Vro%20U%20Can%20Help%20Me?🌈%20Vro%20I'm%20Waiting%20For%20Ur%20Reply😴💞_*)**
-
-**Click on the click here you want to contact me!**
-
-**നിങ്ങൾ എന്നെ ബന്ധപ്പെടാൻ ആഗ്രഹിക്കുന്നു ആ വിവരങ്ങളിൽ ക്ലിക്ക് ചെയ്യുക!**
-
-## Setup
-<div align="center"> 
 
 
-## Click the instagram logo to follow this page👀✨
+<a href="https://github.com/Ajx-Abu/Sana-Mwol/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
+<br>
+<div>
+<a href="https://replit.com/@Arx-Abu/ABU-SER-QR?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
+<br>
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/cOevAnk.png?size=10)](https://instagram.com/kichu_nrd?utm_medium=copy_link)
+<a href="https://gist.github.com/Afx-Abu/591d98e5ee5d6a137dff9f72f78ff865"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
+   <br>
+<div>
+<a href="https://abuser1.yolasite.com/"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
 
-  ### Simple Method
-  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsme-soman/KICHU-SER.git)
-
-
-
-  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Itsme-soman/kichuser?v=1)
-
-Qr scan cheyyupol kurach time edukum qr varunath vare wait cheyyanam  [wait for get qr code]
-  
-### The Hard Method
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/Itsme-soman/KICHU-SER
-$ cd KICHU-SER
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node julie.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/Itsme-soman/KICHU-SER
-$ cd KICHU-SER
-$ npm i
-$ node julie.js
-```
-
-----
-
-  <p align="center">
-  <a href="https://github.com/Itsme-soman/KICHU-SER">
-    
-<a href="https://github.com/Itsme-soman/followers">
-<img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
+##
+  <h3 align="center">📢 JOIN OUR SUPPORT GROUP:</h3>
 <p align="center">
-<a href="https://github.com/Itsme-soman/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Itsme-soman/KICHU-SER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itsme-soman/KICHU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/Itsme-soman/KICHU-SER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Itsme-soman/KICHU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/Itsme-soman/KICHU-SER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itsme-soman/KICHU-SER?label=Watchers&color=blue&style=flat-square"></a>
-</p>
-
-## 📢 Guide
-Click WA logo to Join Support Group👇🏼
+CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
     <br>
 <br>
-  [![join](https://i.imgur.com/21zMdKL.png)](https://chat.whatsapp.com/JnHetBYTBdb6Km2vNC12X3)
-  <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Itsme-soman&repo=KICHU-SER&theme=nightowl)](https://github.com/Itsme-soman/KICHU-SER)
-  </div>
-    
-### ⚠ Warning ⚠
-
-```
-By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
- we are not re https://github.com/Chunkindepaday.png?size=100 sponsible for your account, 
-This bot is intended for the purpose of having fun with some fun commands 
-and group management with some helpfull commands.
-
-If  you ended up spamming groups, getting reported left and right, 
-and you ended up in being fight with WhatsApp
-and at the end WhatsApp Team deleted your account. DON'T BLAME US.
-
-No personal support will be provided / We won't spoon feed you. 
-If you need help
-you can contact 👇🏻👇🏻 
-```
-**[![KICHU-SER](https://i.imgur.com/8c02mRI.png)](http://wa.me/918714183251?text=*_Hi%20kichu%20ser❤️✨_*)**
-
-## Developers
-
-[![KICHU-SER](https://github.com/Itsme-soman.png?size=100)](https://github.com/Itsme-soman) | [![Chunkindepadayali](https://github.com/Chunkindepadayali.png?size=100)](https://github.com/Chunkindepadayali) | [![TOXIC DEVIL](https://github.com/TOXIC-DEVIL?size=100)](https://github.com/TOXIC-DEVIL)
-----|----|----
-[KICHU-SER](https://github.com/Itsme-soman) | [Chunkindepadayali](https://github.com/Chunkindepadayali) | [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)
-Developer, Base, Bug Fixes, Modules| Bug Fixes, Modules, Commits |  Modifiying  as   public | Re-Developer, Bug Fixes, Modules 
-
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
-
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+  <a href="https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk" target="blank"><img align="center" src="https://i.imgur.com/UPo3niq.png" alt="kyrie.baran" height="50" width="300" /></a>
+</p> 
