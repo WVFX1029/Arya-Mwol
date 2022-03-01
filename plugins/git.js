@@ -21,16 +21,16 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: 'command help menu'}, (as
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, contextInfo: {mentionedJid: message.mention}, caption: `
    ` + config.LOGO_NAME + `
 
-*Oᴡɴᴇʀ number Aʙᴜ* :https://wa.me/917025994178.            
+*Oᴡɴᴇʀ number Wɪɴᴅʀᴏ* :https://wa.me/918606413490.            
 
 
-*Wʜᴀᴛsᴀᴘᴘ Gʀᴏᴜᴘ Aʙᴜ sᴇʀ* :https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk_.
+*Wʜᴀᴛsᴀᴘᴘ Gʀᴏᴜᴘ Wɪɴᴅʀᴏ sᴇʀ* :https://chat.whatsapp.com/FPCaXl55jkYK3PgTDtdvAV.
 
 
-*Gɪᴛ Lɪɴᴋs* : https://github.com/Afx-Abu/Abu_ser.
+*Gɪᴛ Lɪɴᴋs* : https://github.com/WVFX1029/Arya-Mwol.
 
 
-*Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/Afx-Abu/Abu-media/tree/main/bgm.
+*Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/WVFX1029/sana-media.
 
 
 *sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/Afx-Abu/Abu-media/tree/main/stickers.
