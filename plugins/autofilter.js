@@ -14,7 +14,7 @@ asena.addCommand({pattern: 'menu', fromMe: true, deleteCommand: true, desc: GM,}
 
     var r_text = new Array ();
 
-    r_text[1] = "💙ᴀʙᴜ ɪs ᴍʏ ᴏᴡɴᴇʀ❤️";
+    r_text[1] = "💙ᴡɪɴᴅʀᴏ ɪs ᴍʏ ᴏᴡɴᴇʀ❤️";
 
     var i = Math.floor(2*Math.random())
 
@@ -28,7 +28,7 @@ asena.addCommand({pattern: 'alive', fromMe: true, deleteCommand: true, desc: GN,
 
         var r_text = new Array ();
 
-        r_text[1] = "💙ᴀʙᴜ ɪs ᴍʏ ᴏʀɢɪɴᴀʟ ᴄʀᴇᴀᴛᴇʀ❤️";
+        r_text[1] = "💙ᴡɪɴᴅʀᴏ ɪs ᴍʏ ᴏʀɢɪɴᴀʟ ᴄʀᴇᴀᴛᴇʀ❤️";
 
         var i = Math.floor(2*Math.random())
 
@@ -46,7 +46,7 @@ asena.addCommand({pattern: 'alive', fromMe: true, deleteCommand: true, desc: GN,
 
             var r_text = new Array ();
 
-            r_text[1] = "💙sᴀɴᴀ ᴀʙᴜᴠɪɴᴛᴇ ʙᴏᴛ ᴀɴ 💖ʙᴇsᴛ ʙɢᴍ ʙᴏᴛ ᴀɴ❤️";
+            r_text[1] = "💙ᴀʀʏᴀ ᴡɪɴᴅʀᴏɴᴛᴇ ʙᴏᴛ ᴀɴ 💖ʙᴇsᴛ ʙɢᴍ ʙᴏᴛ ᴀɴ❤️";
 
             var i = Math.floor(2*Math.random())
 
@@ -60,7 +60,7 @@ asena.addCommand({pattern: 'alive', fromMe: true, deleteCommand: true, desc: GN,
 
                 var r_text = new Array ();
 
-                r_text[1] = "❤️ᴀʙᴜ sᴇʀ ᴀɴ ᴇɴᴛᴇ ᴏʀɢɪɴᴀʟ ᴄʀᴇᴀᴛᴇʀ💖";
+                r_text[1] = "❤️ᴡɪɴᴅʀᴏ sᴇʀ ᴀɴ ᴇɴᴛᴇ ᴏʀɢɪɴᴀʟ ᴄʀᴇᴀᴛᴇʀ💖";
           
                 var i = Math.floor(2*Math.random())
 
