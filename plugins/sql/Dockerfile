@@ -1,10 +1,10 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/Afx-Abu/Abu_ser /root/WhatsAsenaDuplicated
+RUN git clone https://github.com/Afx-Abu/Sana-Mwol /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
 RUN yarn install --no-audit
-RUN git clone https://github.com/Afx-Abu/Abu-media
+RUN git clone https://github.com/Afx-Abu/media
 
 CMD ["node", "bot.js"]
