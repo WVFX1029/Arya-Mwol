@@ -243,13 +243,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*New update available for Bot!*\n\n*To update Bot give this command: .update now*",
+            "NEW_UPDATE": "*New update available for Bot!*\n\n*To update Bot give this command: .update now*\n*Join our Whatsapp Group For Doubts*\n https://chat.whatsapp.com/FPCaXl55jkYK3PgTDtdvAV",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "*Kichu Ser is updating..🥵🚶🏻‍♂️*",
+            "UPDATING": "*Arya-Mwol is updating..🥵🚶🏻‍♂️*",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
             "UPDATED": "*Updated ✅️*",
             "UPDATED_LOCAL": "*✅ Updated!*",
-            "AFTER_UPDATE": "*KICHU-SER Restarting ✅️*",
+            "AFTER_UPDATE": "*Arya-Mwol Restarting ✅️*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
