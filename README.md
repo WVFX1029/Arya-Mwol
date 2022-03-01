@@ -7,7 +7,7 @@
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@WINDROYT/Slayer-v1?v=1)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/WVFX1029/ITACHI-BOT.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/WVFX1029/Arya-Mwol.git)
      </div>
 <br>
 <br >
